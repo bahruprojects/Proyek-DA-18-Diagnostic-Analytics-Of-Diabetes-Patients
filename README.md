@@ -2,7 +2,7 @@
 ### Dashboard: 
 [Link](https://lookerstudio.google.com/u/0/reporting/02606494-5433-4ca7-b47c-dd6cb00854a4/page/LTr9D).
 ### Tools: 
-Microsoft Excel (Data Cleaning), Looker Studio (Data Visualizations dan Data Interpretation)
+Microsoft Excel (Data Cleaning), Looker Studio (Data Visualizations dan Data Interpretation).
 ### Dataset:
 [Link](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset).
 ### Description:
